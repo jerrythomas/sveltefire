@@ -19,16 +19,16 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
-    "cypress": "^4.1.0",
-    "firebase": "^7.10.0",
-    "firebase-tools": "^7.14.0",
-    "jest": "^25.1.0",
-    "rollup": "^2.0.3",
+    "cypress": "^16.1.1",
+    "firebase": "^12.19.0",
+    "firebase-tools": "^15.32.0",
+    "jest": "^30.5.2",
+    "rollup": "^4.63.5",
     "rollup-plugin-bundle-size": "^1.0.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-svelte": "^5.0.0",
-    "svelte": "^3.19.2"
+    "svelte": "^5.57.1"
   },
   "keywords": [
     "svelte",
